@@ -110,13 +110,13 @@
         STYLES = {
             "strokeStyle":{
                 svgAttr : "stroke", //corresponding svg attribute
-                canvas : "#000000", //canvas default
+                canvas : "#3D3D3D", //canvas default
                 svg : "none",       //svg default
                 apply : "stroke"    //apply on stroke() or fill()
             },
             "fillStyle":{
                 svgAttr : "fill",
-                canvas : "#000000",
+                canvas : "#3D3D3A",
                 svg : null, //svg default is black, but we need to special case this to handle canvas stroke without fill
                 apply : "fill"
             },

@@ -59,7 +59,7 @@ export class About extends Component {
                 </Primary>
               </Button>
               <p>,</p>&nbsp;
-              <Button href="mailto:hicetnunc2000@protonmail.com">
+              <Button href="mailto:qepri.xyz@gmail.com">
                 <Primary>
                   <strong>email</strong>
                 </Primary>
