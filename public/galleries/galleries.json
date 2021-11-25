@@ -17,4 +17,12 @@
     "endpoint": "https://raw.githubusercontent.com/joanielemercier/The_fen/main/thefen.json",
     "id": "34413"
   }
+  {
+    "uid": "tezosmafia",
+    "name": "T E Z O S  Mafia",
+    "endpoint": "/galleries/tezosmafia.json",
+    "id": "477749"
+  }
+
+  
 ]
