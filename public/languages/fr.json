@@ -36,6 +36,7 @@
   "about": {
     "title": "hic et nunc",
     "paragraphs": [
+      "OXXXO est un fork de HICETNUNC original maintenant abandonné, géré par qepri.xyz",
       "Cette application décentralisée permet à ses utilisateurs de gérer des biens digitaux décentralisés, comme infrastructure publique de contrats intelligents sur la Blockchain Tezos.",
       "Les OBJKTs IPFS peuvent être émis et échangés de façon libre. L'ambition de cet outil est d'imaginer des économies crypto alternatives.",
       "Nous faisons attention à votre sécurité et à votre indépendance. Veuillez vérifier vos informations pendant vos transactions.",
