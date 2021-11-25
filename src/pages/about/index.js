@@ -26,7 +26,7 @@ export class About extends Component {
       <Page title="about" large>
         <Container>
           <Padding>
-            <strong>hic et nunc</strong>
+            <strong> OXXXO.xyz </strong>
           </Padding>
         </Container>
 
