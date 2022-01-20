@@ -28,5 +28,12 @@
     "name": "Cronopios",
     "endpoint": "/galleries/cronopios.json",
     "thumbnail": "54715"
+  },
+  {
+    "uid": "tezosmafia",
+    "name": "TEZOS_Mafia",
+    "endpoint": "/galleries/tezosmafia.json",
+    "id": "477749"
   }
+
 ]

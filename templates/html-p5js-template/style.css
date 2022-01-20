@@ -16,8 +16,8 @@ body {
 	flex-direction: row;
 	overflow: hidden;
     touch-action: none;
-	/*background: radial-gradient(#efefef, #000000);*/
-	background: black;
+	/*background: radial-gradient(#C0C0C0, #3D3D3D);*/
+	background: rgb(51, 51, 51);
 }
 
 canvas {
