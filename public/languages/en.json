@@ -23,7 +23,7 @@
     "description": "description",
     "tags": "tags (separated by commas)",
     "amount": "number of OBJKT's to mint",
-    "upload": "Upload OBJKT",
+    "upload": "Upload OBJKT ",
     "supports": "supports",
     "preview": "preview",
     "mint": "mint",
@@ -34,15 +34,16 @@
     "collection": "collection"
   },
   "about": {
-    "title": "OXXXO.xyz",
+    "title": "oxxxo.xyz",
     "paragraphs": [
-      "OXXXO is a fork of original HICETNUNC now discontinued, run by qepri.xyz",
+      "oxxxo is a fork of original HICETNUNC now discontinued, run by qepri.xyz",
       "The present decentralized application allows its users to manage decentralized digital assets, serving as a public smart contract infrastructure on Tezos Blockchain.",
       "IPFS OBJKTs can be minted and traded by permissionless means. such experiment was designed intending to imagine alternative crypto economies.",
       "We're concerned about your security and autonomy. please verify the seller's information while making transactions.",
       "For consulting, networking or questions get in touch by %EMAIL%, %DISCORD%, or on %REDDIT%.",
       "Please read through our %WIKI%.",
-      "If you're having trouble with the website, please report an %ISSUE%"
+      "If you're having trouble with the website, please report an %ISSUE%",
+      "visit %CRYPTODADA%"
     ]
   },
   "detail": {

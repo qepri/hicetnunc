@@ -26,7 +26,7 @@ export class About extends Component {
       <Page title="about" large>
         <Container>
           <Padding>
-            <strong> OXXXO.xyz </strong>
+            <strong> oxxxo.xyz </strong>
           </Padding>
         </Container>
 
@@ -51,11 +51,11 @@ export class About extends Component {
         <Container>
           <Padding>
             <div className={styles.buttons}>
-              <p>Join or contact hic et nunc on</p>
+              <p>Join or contact</p>
               &nbsp;
-              <Button href="https://hicetnunc2000.medium.com">
+              <Button href="https://qepri.xyz">
                 <Primary>
-                  <strong>medium</strong>
+                  <strong>qepri</strong>
                 </Primary>
               </Button>
               <p>,</p>&nbsp;
@@ -65,7 +65,7 @@ export class About extends Component {
                 </Primary>
               </Button>
               <p>,</p>&nbsp;
-              <Button href="https://discord.gg/W8vQ7REym7">
+              <Button href="https://discord.gg/W7p669Dt7">
                 <Primary>
                   <strong>discord</strong>
                 </Primary>
@@ -73,25 +73,25 @@ export class About extends Component {
               <p>,</p>&nbsp;
               <Button href="https://reddit.com/r/hicetnunc">
                 <Primary>
-                  <strong>reddit</strong>
+                  <strong>reddit.
+                  </strong>
                 </Primary>
               </Button>
-              <p>,</p>&nbsp;
-              <Button href="https://t.me/hicetnunc2000">
-                <Primary>
-                  <strong>telegram</strong>
-                </Primary>
-              </Button>
-              &nbsp;or through our
-              <Button href="https://community.hicetnunc.xyz">
-                <Primary>
-                  <strong>&nbsp;community forum</strong>
-                </Primary>
-              </Button>.
             </div>
           </Padding>
         </Container>
-
+        <Container>
+          <Padding>
+            <div className={styles.buttons}>
+              <p>cryptodada.art</p>&nbsp;
+              <Button href="https://cryptodada.art">
+                <Primary>
+                  <strong>Gallery and Collection</strong>
+                </Primary>
+              </Button>
+            </div>
+          </Padding>
+        </Container>
         <Container>
           <Padding>
             <div className={styles.buttons}>
