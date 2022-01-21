@@ -13,9 +13,9 @@ export const Page = ({ title = 'oxxxo.xyz', children = null, large }) => {
     <main className={classes}>
       <Helmet>
         {title !== '' ? (
-          <title>{title} #CleanNFT </title>
+          <title>{title} #cryptodada </title>
         ) : (
-          <title>OXXXO.xyz</title>
+          <title>oxxxo.xyz</title>
         )}
       </Helmet>
       <VisuallyHidden as="h1">{title}</VisuallyHidden>
