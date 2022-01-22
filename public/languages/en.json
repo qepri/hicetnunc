@@ -10,7 +10,7 @@
     ]
   },
   "footer": {
-    "mint": "This is an experimental dApp, use it at your own risk. #cryptodada",
+    "mint": "This is an experimental dApp, use it at your own risk. %#cryptodada%",
     "warning": "use it consciously. visit artists profiles. be careful with copy minters."
   },
   "home": {
