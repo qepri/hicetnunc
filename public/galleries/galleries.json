@@ -22,6 +22,12 @@
     "name": "TEZOS_Mafia",
     "endpoint": "/galleries/tezosmafia.json",
     "id": "477749"
+  },
+  {
+    "uid": "jejeje",
+    "name": "jejeje",
+    "endpoint": "/jejeje.json",
+    "id": "80982"
   }
 
   
