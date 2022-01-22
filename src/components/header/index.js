@@ -89,7 +89,7 @@ export const Header = () => {
                 </svg>
               )}
               {/* PRIDE LOGO */}
-              {true && <img src="/hen-pride.gif" alt="pride 2021" />}
+              {true && <img src="/oxxxo.gif" alt="pride 2021" />}
             </div>
           </a>
 
