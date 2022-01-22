@@ -865,6 +865,11 @@ export default class Display extends Component {
                   collection
                 </Primary>
               </Button>
+              <Button onClick={this.creations}>
+                <Primary selected={this.state.creationsState}>
+                  
+                </Primary>
+              </Button>
               <div className={styles.filter}>
                 <Button onClick={() => this.setState({
                   filter: !this.state.filter
@@ -1196,9 +1201,9 @@ export default class Display extends Component {
             </Container>
           </div>
         )}
-        {/*       <BottomBanner>
-        API is down due to heavy server load — We're working to fix the issue — please be patient with us. <a href="https://discord.gg/mNNSpxpDce" target="_blank">Join the discord</a> for updates.
-      </BottomBanner> */}
+               <BottomBanner>
+        Tezos Mafia — HEN mirror <a href="https://cryptodada.art" target="_blank">#cryptodada</a> 
+      </BottomBanner> /}
       </Page>
     )
   }
