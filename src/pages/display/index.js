@@ -1202,8 +1202,8 @@ export default class Display extends Component {
           </div>
         )}
                <BottomBanner>
-        Tezos Mafia — HEN mirror <a href="https://cryptodada.art" target="_blank">#cryptodada</a> 
-      </BottomBanner> /}
+        Tezos Mafia — HEN mirror <a href="https://cryptodada.art" target="_blank">#cryptodada</a> <a href="https://nftianguis.com" target="_blank">#nftianguis</a>
+      </BottomBanner> 
       </Page>
     )
   }
