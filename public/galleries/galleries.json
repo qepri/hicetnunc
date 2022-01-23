@@ -6,6 +6,12 @@
     "id": "833"
   },
   {
+    "uid": "jejeje_c",
+    "name": "jejeje.xyz",
+    "endpoint": "galleries/jejeje_c.json",
+    "id": "80982"
+  },
+  {
     "uid": "objkt4objkt",
     "name": "OBJKT4OBJKT",
     "endpoint": "/galleries/objkt4objkt.json",
@@ -24,11 +30,10 @@
     "id": "477749"
   },
   {
-    "uid": "jejeje",
-    "name": "jejeje",
-    "endpoint": "/jejeje.json",
-    "id": "80982"
+    "uid": "nftianguis",
+    "name": "NFTianguis",
+    "endpoint": "/galleries/NFTianguis.json",
+    "id": "104819"
   }
-
   
 ]

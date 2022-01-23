@@ -34,6 +34,19 @@
     "name": "TEZOS_Mafia",
     "endpoint": "/galleries/tezosmafia.json",
     "id": "477749"
+  },
+  {
+    "uid": "tezosmafia",
+    "name": "TEZOS_Mafia",
+    "endpoint": "/galleries/tezosmafia.json",
+    "id": "477749"
+  },
+  {
+    "uid": "jejeje_c",
+    "name": "jejeje",
+    "endpoint": "/galleries/jejeje_c.json",
+    "id": "80982"
   }
+
 
 ]

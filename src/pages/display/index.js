@@ -870,6 +870,11 @@ export default class Display extends Component {
                   
                 </Primary>
               </Button>
+              <Button onClick={this.creations}>
+                <Primary selected={this.state.creationsState}>
+                  collabs
+                </Primary>
+              </Button>
               <div className={styles.filter}>
                 <Button onClick={() => this.setState({
                   filter: !this.state.filter
@@ -1202,7 +1207,7 @@ export default class Display extends Component {
           </div>
         )}
                <BottomBanner>
-        Tezos Mafia — HEN mirror <a href="https://cryptodada.art" target="_blank">#cryptodada</a> <a href="https://nftianguis.com" target="_blank">#nftianguis</a>
+        Tezos Mafia — HEN mirror <a href="https://cryptodada.art" target="_blank">#cryptodada</a> <a href="https://oxxxo.xyz/gallery/nftianguis" target="_blank">#nftianguis</a>
       </BottomBanner> 
       </Page>
     )
